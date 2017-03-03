@@ -21,7 +21,7 @@ using SimpleMapping;
 
 public class MyClass
 {
-    public class MyMethod(Obj obj)
+    public void MyMethod(Obj obj)
     {
         // Can map type Obj here...
         var target = obj.Map();
@@ -50,7 +50,7 @@ using SimpleMapping;
 
 public class MyClass
 {
-    public class MyMethod(Obj source)
+    public void MyMethod(Obj source)
     {
         // Can populate targetObj after instansiation
         var targetObj = new TargetObj();
