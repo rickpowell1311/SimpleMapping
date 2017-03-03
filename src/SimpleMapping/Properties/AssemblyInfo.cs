@@ -1,15 +1,14 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RickPowell.Mapping")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("SimpleMapping")]
+[assembly: AssemblyDescription("A simple mapping framework for mapping to or populating from objects")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RickPowell.Mapping")]
+[assembly: AssemblyCompany("None")]
+[assembly: AssemblyProduct("SimpleMapping")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
